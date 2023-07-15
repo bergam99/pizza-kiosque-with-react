@@ -1,0 +1,9 @@
+.Store{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.Store__main{
+    flex:1;
+}

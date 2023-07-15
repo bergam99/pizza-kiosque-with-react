@@ -1,0 +1,15 @@
+.GoBack__button{
+    display: flex;
+    align-items: center;
+    height: 1.5vh;
+    cursor: pointer;
+}
+
+.GoBack__icon{
+    height: 2vh;
+}
+
+.GoBack__text{
+    font-size: 2vh;
+    padding-left: 0.7vw;
+}
