@@ -1,12 +1,14 @@
-/* ----- Normalize ---- */
+/* ============ FONTS ===========*/
 
-/* font-poppins */
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Noto+Sans+Limbu&family=Noto+Serif+Khojki&family=Playfair+Display&family=Poppins:wght@100;400&family=Roboto:ital,wght@0,700;0,900;1,500&display=swap');
 /* font-family: 'Poppins', sans-serif; */
 
-/* normalize */
-*,
-body {
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Lora:ital@0;1&family=Noto+Sans+Limbu&family=Noto+Serif+Khojki&family=PT+Serif:wght@400;700&family=Pacifico&family=Playfair+Display:ital@1&family=Poppins:wght@100;400&family=Quicksand&display=swap');
+/* font-family: 'Pacifico', cursive; */
+
+
+/* ============ NORMALIZE ===========*/
+*, body {
     padding: 0;
     margin: 0;
     list-style: none;
@@ -31,9 +33,11 @@ body {
     /* background-color: var(--color-gray); */
 }
 
-/* color library */
+/* ============ COLOR LIBRARY ===========*/
 :root {
-    /* --color-red : #CE0033;
-    --color-gray : #F0F0F0;
-    --color-white : #FFFFFF; */
+    --color-light-yellow : #FFEFD2;
+    --color-yellow : #F8C03D;
+    --color-brown : #4F2801;
+    --color-red : #E31C24;
+    --color-white : #FFFFFF;
 }
