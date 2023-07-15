@@ -13,6 +13,7 @@
     margin: 0;
     list-style: none;
     font-family: 'Poppins', sans-serif;
+    color: var(--color-brown);
 }
 
 button {
@@ -30,7 +31,7 @@ a {
 
 /* fond */
 body {
-    /* background-color: var(--color-gray); */
+    background-color: var(--color-light-yellow);
 }
 
 /* ============ COLOR LIBRARY ===========*/
