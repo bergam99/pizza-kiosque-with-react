@@ -1,0 +1,9 @@
+.Resume{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.Resume__main{
+    flex:1;
+}

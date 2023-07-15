@@ -1,0 +1,16 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh 2.5vw;
+    border-bottom: 1px solid var(--color-brown);
+}
+
+.Header__align{
+    display: flex;
+    align-items: center;
+}
+
+.Header__title {
+    font-family: 'Pacifico';
+    color: var(--color-red);
+}

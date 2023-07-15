@@ -1,24 +1,38 @@
 .Place{
-    width: 100vw;
-    height: 100vh;
-    border : 2px solid var(--color-red);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-.Place__center{
+.Place__main {
+    flex: 1;
+    align-items: center;
+}
+
+.Place__center {
     display: flex;
     justify-content: center;
 }
 
-.Place__button{
-    border : 2px solid var(--color-brown);
+.Place__button {
+    border: 2px solid var(--color-brown);
     border-radius: 30px;
+}
 
+.Place__button:hover {
+    background-color: var(--color-yellow);
 }
-.Place__buttonBox{
-    gap:2vw;
+
+.Place__buttonBox {
+    gap: 2vw;
 }
-.Place__icon{
+
+.Place__padding {
+    padding: 2vh 4vh;
+}
+
+.Place__icon {
     padding: 3vw;
-    max-width: 13vw;
-    min-width: 10vw;
+    max-width: 8vw;
+    min-width: 6vw;
 }

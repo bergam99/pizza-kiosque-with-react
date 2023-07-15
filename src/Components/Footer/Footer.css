@@ -1,0 +1,10 @@
+.Footer{
+    border-top: 1px solid var(--color-brown);
+    padding: 1.6vh;
+}
+
+.Footer__text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
