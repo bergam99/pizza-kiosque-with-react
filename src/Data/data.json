@@ -2,26 +2,129 @@
 [
     {
         "id":1,
-        "name" : "gem",
-        "price" : 10.99,
-        "imgUrl" : "imgs/gem.jpg"
+        "name" : "Margeritta",
+        "price" : 699,
+        "imgUrl" : "public/imgs/products/p-marg.png",
+        "cat": "Pizza"
     },
     {
         "id":2,
-        "name" : "gift",
-        "price" : 1199,
-        "imgUrl" : "imgs/gift.jpg"
+        "name" : "Pepperoni",
+        "price" : 1099,
+        "imgUrl" : "public/imgs/products/p-pepp.png",
+        "cat": "Pizza"
     },
     {
         "id":3,
-        "name" : "letter",
-        "price" : 1.05,
-        "imgUrl" : "imgs/letter.jpg"
+        "name" : "Poivron",
+        "price" : 1299,
+        "imgUrl" : "public/imgs/products/p-poiv.png",
+        "cat": "Pizza"
     },
     {
         "id":4,
-        "name" : "cookies",
-        "price" : 14000,
-        "imgUrl" : "imgs/cookies.jpg"
+        "name" : "Veggie",
+        "price" : 1399,
+        "imgUrl" : "public/imgs/products/p-vegg.png",
+        "cat": "Pizza"
+    },
+    {
+        "id":4,
+        "name" : "Chili",
+        "price" : 1499,
+        "imgUrl" : "public/imgs/products/p-chili.png",
+        "cat": "Pizza"
+    },
+    {
+        "id":4,
+        "name" : "Tomate& basil",
+        "price" : 1499,
+        "imgUrl" : "public/imgs/products/p-tomat.png",
+        "cat": "Pizza"
+    },
+    {
+        "id":4,
+        "name" : "Chili Poulet",
+        "price" : 1499,
+        "imgUrl" : "public/imgs/products/p-ch-po.png",
+        "cat": "Pizza"
+    },
+    {
+        "id":4,
+        "name" : "USA style",
+        "price" : 1499,
+        "imgUrl" : "public/imgs/products/p-usa.png",
+        "cat": "Pizza"
+    },    
+    {
+        "id":4,
+        "name" : "Coke (350ml)",
+        "price" : 5,
+        "imgUrl" : "public/imgs/products/b-coke.png",
+        "cat": "Boisson"
+    },
+
+    {
+        "id":4,
+        "name" : "Zéro Coke(350ml)",
+        "price" : 5,
+        "imgUrl" : "public/imgs/products/b-zero.png",
+        "cat": "Boisson"
+    },
+    {
+        "id":4,
+        "name" : "evian (500ml)",
+        "price" : 4,
+        "imgUrl" : "public/imgs/products/b-evian.png",
+        "cat": "Boisson"
+    },
+    {
+        "id":4,
+        "name" : "Badoit (500ml)",
+        "price" : 5,
+        "imgUrl" : "public/imgs/products/b-bad.png",
+        "cat": "Boisson"
+    },
+    {
+        "id":4,
+        "name" : "Perrier (500ml)",
+        "price" : 5,
+        "imgUrl" : "public/imgs/products/b-perr.png",
+        "cat": "Boisson"
+    },
+    {
+        "id":4,
+        "name" : "Brets pizza",
+        "price" : 6,
+        "imgUrl" : "public/imgs/products/s-brets.png",
+        "cat": "Snack"
+    },
+    {
+        "id":4,
+        "name" : "glace cho-ba",
+        "price" : 5,
+        "imgUrl" : "public/imgs/products/d-cho-ba.png",
+        "cat": "Dessert"
+    },    
+    {
+        "id":4,
+        "name" : "glace cookie",
+        "price" : 4,
+        "imgUrl" : "public/imgs/products/d-cookie.png.png",
+        "cat": "Dessert"
+    },
+    {
+        "id":4,
+        "name" : "glace mix",
+        "price" : 3,
+        "imgUrl" : "public/imgs/products/d-mix.png",
+        "cat": "Dessert"
+    },
+    {
+        "id":4,
+        "name" : "glace cookie",
+        "price" : 5,
+        "imgUrl" : "public/imgs/products/d-cho.png",
+        "cat": "Dessert"
     }
 ]
